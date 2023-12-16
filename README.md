@@ -1,2 +1,1 @@
-# File_Rename_Batch_Folder
-Replace all name of files in directory automatically
+#This program is to rename your files inside a folder automatically using OS & Regular expression 
